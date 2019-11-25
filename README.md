@@ -8,6 +8,8 @@ Scripts that interact with the website [BandMusic PDF Library](https://www.bandm
 
 # Usage
 
+The following sequence of instructions should open your default web browser with 5 tabs, each linked to a different song provided by *BandMusic PDF Library*.
+
 * Download ```url_randomizer.py```
 * Download ```urls.txt```
 
@@ -16,5 +18,6 @@ Scripts that interact with the website [BandMusic PDF Library](https://www.bandm
 * Open terminal 
   * Applications => Utilities => Terminal
 * Navigate to the directory to which you downloaded the previous files
-  * i.e., If you downloaded the files to your ```Downloads``` folder then enter ```cd ~/Downloads/```
-* Enter the following ```cat urls.txt | url_randomizer.py```
+  * For example, if you downloaded the files to your ```Downloads``` folder then enter ```cd ~/Downloads/```
+  * Verify that the files you downloaded are in your present directory using ```ls```
+* Enter ```cat urls.txt | url_randomizer.py```
