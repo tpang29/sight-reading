@@ -20,4 +20,4 @@ The following sequence of instructions should open your default web browser with
 * Navigate to the directory to which you downloaded the previous files
   * For example, if you downloaded the files to your ```Downloads``` folder then enter ```cd ~/Downloads/```
   * Verify that the files you downloaded are in your present directory using ```ls```
-* Enter ```cat urls.txt | randomizer.py```
+* Enter ```cat urls.txt | python randomizer.py```
