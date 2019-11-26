@@ -8,7 +8,7 @@ Scripts that interact with the website [BandMusic PDF Library](https://www.bandm
 
 # Usage
 
-The following sequence of instructions should open your default web browser with 5 tabs, each linked to a different song provided by *BandMusic PDF Library*.
+The following sequence of instructions should open your default web browser with 5 tabs, each linked to a different song provided by [BandMusic PDF Library.](https://www.bandmusicpdf.org)
 
 * Download ```randomizer.py```
 * Download ```urls.txt```
