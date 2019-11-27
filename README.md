@@ -16,7 +16,7 @@ The following sequence of instructions should open your default web browser with
 
 * Open terminal 
   * Applications => Utilities => Terminal
-* Navigate to the directory ```sight-reading-master```
+* Using the terminal, navigate to the directory `sight-reading-master` using the `cd` command
   * For example `cd ~/Downloads/sight-reading-master`
 * Verify that `urls.txt` and `randomizer.py` are in the directory with `ls`
-* Enter ```sh sight-reading```
+* Enter `sh sight-reading`
